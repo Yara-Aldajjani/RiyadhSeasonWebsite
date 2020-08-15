@@ -1,4 +1,5 @@
 # Riyadh Season Website
+Website containing information about Riyadh Season, users can login and post comments on posts made about the events.
 This project was developed for the Web Development course by a group of four.
 
 ## Tools Used:
