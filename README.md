@@ -4,7 +4,7 @@ This project was developed for the Web Development course by a group of four.
 ## Tools Used:
 - XAMPP web server solution stack package including: Apache web server and MYSQL database.
 - Languages: HTML, CSS, JavaScript, SQL and PHP. 
-- Bootsrap template.
+- Bootsrap 520 Highway template: https://templatemo.com/tm-520-highway.
 
 ## Webpages:
 
