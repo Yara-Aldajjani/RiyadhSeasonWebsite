@@ -1,6 +1,7 @@
 # Riyadh Season Website
 Website containing information about Riyadh Season, users can login and post comments on posts made about the events.
 This project was developed for the Web Development course by a group of four.
+**note**: please create database (code in Riyadh_Season.sql) and change the servername, username and password in dbh.inc.php accordingly.
 
 ## Tools Used:
 - XAMPP web server solution stack package including: Apache web server and MYSQL database.
