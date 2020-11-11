@@ -42,3 +42,4 @@ When the user scrolls down they can see more information about the event.
 The post also contains a comment section where logged in users can share their experince (if the user is not logged in, the comments are shown without the comment box)
 
 <img width="800" alt="PostPageWithComments" src="https://user-images.githubusercontent.com/60888719/90317281-e57fbe80-df30-11ea-9eec-61b9b2d04173.png">
+
